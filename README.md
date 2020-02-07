@@ -1,3 +1,2 @@
 # personal-trainer-webpage
-# personal-trainer-webpage
-# personal-trainer-webpage
+webpage in progress. 
