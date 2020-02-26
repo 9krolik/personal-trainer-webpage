@@ -31,7 +31,8 @@
         }
     .section-picture:hover{
           transform: none
-    
+    .item{
+       width: 80%;}
 }/*small phones 0-480px*/
 @media only screen and (max-width:480px){
 }
