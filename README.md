@@ -1,3 +1,3 @@
 # personal-trainer-webpage
 webpage in progress. 
-live demo: https://9krolik.github.io/personal-trainer-webpage/. 
+<a href="https://9krolik.github.io/personal-trainer-webpage/">Live demo</a>
