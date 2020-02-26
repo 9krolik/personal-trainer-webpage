@@ -90,7 +90,7 @@ h1{
   background-color: #006494
 }
 .nav__logo{
-  height: 120px;
+  height: 15vh;
   float: left;
   margin: 35px;
 }
@@ -123,7 +123,7 @@ h1{
   padding: 40px 0px;
   text-align: center;
   font-weight: 300;
-  font-size: 220%;
+  font-size: 4vw;
   letter-spacing: 1px;
   word-spacing: 9px;
   text-transform: uppercase;
@@ -139,6 +139,7 @@ h1{
 h3{
   text-transform: uppercase;
   padding-bottom: 3px;
+  font-size: 3vh;
 }
 .item{
   display: inline-block;
@@ -205,10 +206,9 @@ footer{
 }
 .section-text-contact{
   text-align: center;
-  align-content: center;
-  padding-top: -200px;
   padding: 0% 0%;
-  margin-bottom: 6%;
+  margin: 5%;
+  vertical-align: middle;
 
 }
 .flexbox{
@@ -280,3 +280,9 @@ footer{
       margin-bottom: 20x;
 
     }
+
+    footer{
+      text-align: center;
+      padding: 0% 0%;
+      color: white;
+      vertical-align: middle;
