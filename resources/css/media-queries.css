@@ -3,8 +3,35 @@
 }
 }/*small tablets to big phones 768-1023px*/
 @media only screen and (max-width:1023px){
+
 }/*small phones to small tablets 481-767px*/
 @media only screen and (max-width:767px){
+  .section__wrapup{
+    padding: 20px 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+  .nav ul{
+      display: none;
+    }
+  .flexbox{
+      align-items: center;
+      flex-direction: column;
+    }
+    header{
+      height: 40vh;
+    }
+    .heading{
+        top: 13vh
+    }
+    .section-picture{
+          transform: none;
+        }
+    .section-picture:hover{
+          transform: none
+    
 }/*small phones 0-480px*/
 @media only screen and (max-width:480px){
 }
